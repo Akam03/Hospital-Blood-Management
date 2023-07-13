@@ -1,1 +1,1 @@
-# Hospital-Management-System-Blood-Department
+# Hospital-Blood-Management
