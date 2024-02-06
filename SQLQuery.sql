@@ -19,7 +19,7 @@ unit_blood int)
 
 
 insert into donor(donor_id,donorname,Contact,Age,Any_disease,Blood_group,Haemoglobin,unit_blood) 
-values('D1','Akampreet Sandhu',0000000000,21,'No','O+',12,1.5),
+values('D1','Akampreet Sandhu',0000000000,22,'No','O+',12,1.5),
 ('D2','Arun Verma',0000000000,20,'No','O+',11,1),
 ('D3','Ramesh Kumar',0000000000,27,'No','B+',11.5,1),
 ('D4','Girish Sharma',0000000000,32,'Asthma','B-',11,1.5),
